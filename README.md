@@ -13,6 +13,9 @@ Here are some of the key projects I have worked on:
 - **🔐 Unlearning Inversion Attack:**
   Ongoing research on **AI Privacy**, investigating the feasibility of reconstructing "forgotten" data from machine unlearning models using **TabLeak** attacks.
 
+- **🛡️ Enterprise Network Defense (Blue Team Defense Simulation):**
+  Designed and implemented a **Defense in Depth** architecture for a simulated enterprise network. Deployed **Wazuh (SIEM)**, **pfSense (Firewall)**, **Suricata (IPS)**, and **ModSecurity** to monitor, detect, and mitigate Red Team attacks (DDoS, SQLi, Webshells,...) in real-time.
+
 - **🤖 Malicious Package Detection:**
   Rebuilt and evaluated **Machine Learning models** (XGBoost, Random Forest) to detect malicious code in software supply chains.
 
@@ -28,17 +31,9 @@ Here are some of the key projects I have worked on:
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks & AI:**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Security, SIEM & Network:**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
@@ -47,11 +42,6 @@ Here are some of the key projects I have worked on:
 ![Suricata](https://img.shields.io/badge/Suricata-F47920?style=for-the-badge&logo=suricata&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-00B0F0?style=for-the-badge&logo=wazuh&logoColor=white)
-
-**Databases & Infrastructure:**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
