@@ -16,8 +16,8 @@ Here are some of the key projects I have worked on:
 - **🛡️ Enterprise Network Defense (Blue Team Defense Simulation):**
   Designed and implemented a **Defense in Depth** architecture for a simulated enterprise network. Deployed **Wazuh (SIEM)**, **pfSense (Firewall)**, **Suricata (IPS)**, and **ModSecurity** to monitor, detect, and mitigate Red Team attacks (DDoS, SQLi, Webshells,...) in real-time.
 
-- **🤖 Malicious Package Detection:**
-  Rebuilt and evaluated **Machine Learning models** (XGBoost, Random Forest) to detect malicious code in software supply chains.
+- **📡 Zabbix Monitoring System:**
+  Deployed a centralized **Zabbix** solution to monitor **Windows & Linux** infrastructure. Configured **Active/Passive Agents** and **Web Scenarios** to track system health and service uptime, ensuring high availability via automated **Email Alerts**.
 
 - **🩺 HealthTrust (AI-Powered Platform):**
   Built a comprehensive web platform for personal health monitoring, integrated with AI features for medical consultation and diagnosis support.
