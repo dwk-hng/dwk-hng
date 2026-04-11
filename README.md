@@ -1,8 +1,8 @@
 # Hi there, I'm Đức Hùng 👋
 
-### 🛡️ Cybersecurity Student & AI Researcher
+### 🛡️ Cybersecurity Student | SOC & Risk Analyst | AI Researcher
 
-I am a Cybersecurity student dedicated to **Network Security**, **System Monitoring**, and **Threat Detection**. My passion lies in leveraging **Artificial Intelligence** to enhance security operations and building resilient systems against sophisticated attacks.
+I am a Cybersecurity student dedicated to **Security Operations (SOC)**, **Risk Assessment**, and **Threat Detection**. My passion lies in leveraging **Artificial Intelligence** and analytical skills to assess vulnerabilities, implement robust **Security Controls**, and build resilient enterprise infrastructures against sophisticated attacks.
 
 ---
 
@@ -14,10 +14,10 @@ Here are some of the key projects I have worked on:
   Ongoing research on **AI Privacy**, investigating the feasibility of reconstructing "forgotten" data from machine unlearning models using **TabLeak** attacks.
 
 - **🛡️ Enterprise Network Defense (Blue Team Defense Simulation):**
-  Designed and implemented a **Defense in Depth** architecture for a simulated enterprise network. Deployed **Wazuh (SIEM)**, **pfSense (Firewall)**, **Suricata (IPS)**, and **ModSecurity** to monitor, detect, and mitigate Red Team attacks (DDoS, SQLi, Webshells,...) in real-time.
+  Designed a **Defense in Depth** architecture to mitigate enterprise security risks. Deployed **Wazuh (SIEM)**, **pfSense**, **Suricata (IPS)**, and **ModSecurity** to monitor, detect, and control high-risk threats (DDoS, SQLi, Web Exploits) in real-time.
 
-- **📡 Zabbix Monitoring System:**
-  Deployed a centralized **Zabbix** solution to monitor **Windows & Linux** infrastructure. Configured **Active/Passive Agents** and **Web Scenarios** to track system health and service uptime, ensuring high availability via automated **Email Alerts**.
+- **📡 Zabbix System:**
+  Deployed a centralized **Zabbix** solution to monitor operational risks and ensure high availability across **Windows & Linux** infrastructures. Configured **Active/Passive Agents** and **Web Scenarios** to track system health and automate incident alerts.
 
 - **🩺 HealthTrust (AI-Powered Platform):**
   Built a comprehensive web platform for personal health monitoring, integrated with AI features for medical consultation and diagnosis support.
