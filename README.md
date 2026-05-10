@@ -1,8 +1,8 @@
 # Hi there, I'm Đức Hùng 👋
 
-### 🛡️ Cybersecurity Student | SOC & Risk Analyst | AI Researcher
+### 🛡️ Cybersecurity Student | Security Implementation | SOC & Risk Analyst | AI Researcher
 
-I am a Cybersecurity student dedicated to **Security Operations (SOC)**, **Risk Assessment**, and **Threat Detection**. My passion lies in leveraging **Artificial Intelligence** and analytical skills to assess vulnerabilities, implement robust **Security Controls**, and build resilient enterprise infrastructures against sophisticated attacks.
+I am a Cybersecurity student dedicated to **Security Solutions Implementation**, **Risk Assessment**, and **Security Operations (SOC)**. My passion lies in leveraging **Artificial Intelligence** and analytical skills to assess vulnerabilities, implement robust **Security Controls**, and build resilient enterprise infrastructures against sophisticated attacks.
 
 ---
 
