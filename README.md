@@ -63,14 +63,6 @@ I am a final-year Cybersecurity student at the University of Information Technol
 
 ---
 
-**GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dwk-hng&show_icons=true&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dwk-hng&layout=compact&theme=dracula&hide_border=true" height="150" />
-</div>
-
----
 
 <div align="center">
 Thanks for visiting!
