@@ -1,58 +1,77 @@
 # Hi there, I'm Đức Hùng 👋
 
-### 🛡️ Cybersecurity Student | Security Implementation | SOC & Risk Analyst | AI Researcher
+**About Me**
 
-I am a Cybersecurity student dedicated to **Security Solutions Implementation**, **Risk Assessment**, and **Security Operations (SOC)**. My passion lies in leveraging **Artificial Intelligence** and analytical skills to assess vulnerabilities, implement robust **Security Controls**, and build resilient enterprise infrastructures against sophisticated attacks.
-
----
-
-### 🚀 Projects & Research
-
-Here are some of the key projects I have worked on:
-
-- **🔐 Unlearning Inversion Attack:**
-  Ongoing research on **AI Privacy**, investigating the feasibility of reconstructing "forgotten" data from machine unlearning models using **TabLeak** attacks.
-
-- **🛡️ Enterprise Network Defense (Blue Team Defense Simulation):**
-  Designed a **Defense in Depth** architecture to mitigate enterprise security risks. Deployed **Wazuh (SIEM)**, **pfSense**, **Suricata (IPS)**, and **ModSecurity** to monitor, detect, and control high-risk threats (DDoS, SQLi, Web Exploits) in real-time.
-
-- **📡 Zabbix System:**
-  Deployed a centralized **Zabbix** solution to monitor operational risks and ensure high availability across **Windows & Linux** infrastructures. Configured **Active/Passive Agents** and **Web Scenarios** to track system health and automate incident alerts.
-
-- **🩺 HealthTrust (AI-Powered Platform):**
-  Built a comprehensive web platform for personal health monitoring, integrated with AI features for medical consultation and diagnosis support.
-
-- **☁️ Secure Cloud EHR System:**
-  Architected a secure electronic health record sharing scheme using **Hybrid Cryptography (CP-ABE + AES)** for fine-grained access control.
+I am a final-year Cybersecurity student at the University of Information Technology (UIT), VNU-HCM. I am passionate about learning new technologies, continuously expanding my knowledge, and gaining hands-on experience through academic activities, personal projects, and research.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+**Projects & Research**
 
-**Languages:**
+- **Unlearning inversion attack on tabular data**
+  - Conducting research on machine unlearning privacy by investigating whether "forgotten" data can be reconstructed using TabLeak attacks.
+  - Building experimental workflows and evaluating the privacy risks of machine unlearning models on tabular datasets.
+
+- **Enterprise network defense (Blue team defense simulation)**
+  - Designed a Defense in Depth architecture for an enterprise environment.
+  - Deployed Wazuh (SIEM), pfSense, Suricata (IPS), ModSecurity,... to monitor security events, detect attacks, and strengthen network protection.
+
+- **Enterprise network design**
+  - Designed an enterprise network consisting of headquarters, branch offices, and a data center following the Collapsed Core architecture.
+  - Implemented VLAN segmentation, Inter-VLAN Routing, OSPF, HSRP, STP, Dual ISP, GRE over IPsec VPN, Remote Access VPN, DHCP, and NAT to provide secure and highly available connectivity.
+
+- **DevSecOps pipeline on Google Kubernetes Engine**
+  - Built an end-to-end DevSecOps platform on Google Kubernetes Engine (GKE), integrating Infrastructure as Code, CI/CD, GitOps deployment, automated security scanning, observability, and runtime security.
+  - Leveraged Terraform, Jenkins, ArgoCD, Kubernetes, Prometheus, Grafana, Loki, Jaeger, Vault, Harbor, and security scanning tools to automate secure application delivery.
+
+- **Zabbix monitoring system**
+  - Built a centralized monitoring solution for Windows, Linux, and Web server using Zabbix.
+  - Configured Active/Passive Agents, Web Scenarios, and automated alerting to improve system availability and operational visibility.
+
+- **HealthTrust**
+  - Developed a web platform for personal healthcare management with AI-assisted medical consultation and diagnosis support.
+
+- **Secure cloud EHR system**
+  - Designed a secure electronic health record sharing system using Hybrid Cryptography (CP-ABE + AES) to provide fine-grained access control.
+
+---
+
+**Tech Stack & Tools**
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Security, SIEM & Network:**
+**Infrastructure & Cloud**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**Security & Monitoring**
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-EB5B46?style=for-the-badge&logo=burpsuite&logoColor=white)
-![PfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-F47920?style=for-the-badge&logo=suricata&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-00B0F0?style=for-the-badge&logo=wazuh&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+**GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dwk-hng&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dwk-hng&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dwk-hng&show_icons=true&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dwk-hng&layout=compact&theme=dracula&hide_border=true" height="150" />
 </div>
 
 ---
+
 <div align="center">
-  Thanks for visiting!
+Thanks for visiting!
 </div>
