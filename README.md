@@ -6,6 +6,18 @@ I am a final-year Cybersecurity student at the University of Information Technol
 
 ---
 
+**Connect with Me**
+
+Feel free to connect with me on LinkedIn to learn more about my background, projects, and professional journey.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Đức%20Hùng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hungnguyen2306)
+
+If you'd like to get in touch, you can reach me via email.
+
+[![Gmail](https://img.shields.io/badge/Gmail-nguyenhung20202023%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhung20202023@gmail.com)
+
+---
+
 **Projects & Research**
 
 - **Unlearning inversion attack on tabular data**
