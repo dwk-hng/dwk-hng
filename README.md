@@ -14,7 +14,7 @@ Feel free to connect with me on LinkedIn to learn more about my background, proj
 
 If you'd like to get in touch, you can reach me via email.
 
-[![Gmail](https://img.shields.io/badge/Gmail-nguyenhung20202023%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhung20202023@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?label=Gmail&message=hungnd06.contact%40gmail.com&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white)](mailto:hungnd06.contact@gmail.com)
 
 ---
 
